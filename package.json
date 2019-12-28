@@ -1,0 +1,38 @@
+{
+  "name": "micro-app-mqtt-converter",
+  "version": "0.0.1",
+  "description": "mqqt/converter",
+  "main": "lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/server.js"
+  },
+  "dependencies": {
+    "micro-app-framework": "^0.1.1",
+    "socket.io": "~1.3.7",
+    "mqtt": "~1.6.3",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/micro-app-mqtt-converter.git"
+  },
+  "keywords": [
+    "iot",
+    "mqtt",
+    "dashboard",
+    "micro-app",
+    "sensor"
+  ],
+  "author": "Michael Dawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhdawson/micro-app-mqtt-converter/issues"
+  },
+  "homepage": "https://github.com/mhdawson/micro-app-mqtt-converter#readme",
+  "contributors": [
+    {
+      "name": "Michael Dawson",
+      "email": "mdawson@devrus.com"
+    }
+  ]
+}
