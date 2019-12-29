@@ -1,5 +1,5 @@
-From node:12.14.0
-WORKDIR /user/node
+From node:12.14.0-alpine
+WORKDIR /home/node
 COPY package*.json ./
 
 RUN npm install
