@@ -2,7 +2,6 @@
   "title": "Converter",
   "serverPort": 3000,
   "mqttServerUrl": "tcp://10.1.1.186:1883",
-  "location": { "lat": 45.4215, "lon": -75.6972 },
   "windowSize": {"x": 800, "y": 320 },
   "conversions": 
     [
