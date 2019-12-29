@@ -1,0 +1,6 @@
+[
+  { "topic": "house/2262/200/0F000FFF0101", "message": "0F000FFF0101", "commands": [ { "topic": "house/tplink/lleft", "message": "on" } ]},
+  { "topic": "house/2262/200/0F000FFF0110", "message": "0F000FFF0110", "commands": [ { "topic": "house/tplink/lleft", "message": "off" } ]},
+  { "topic": "house/2262/200/0F000FFF1001", "message": "0F000FFF1001", "commands": [ { "topic": "house/tplink/lright", "message": "on" } ]},
+  { "topic": "house/2262/200/0F000FFF1010", "message": "0F000FFF1010", "commands": [ { "topic": "house/tplink/lright", "message": "off" } ]}
+]
